@@ -1,0 +1,55 @@
+
+
+h1{
+    font-family: 'Raleway' bold;
+    font-weight: bolder;
+    text-align: center;
+    padding-top:50px ;
+    padding-bottom: 20px;
+}
+
+
+table {
+    
+    font-size: 14px;
+    font-weight: 300;
+    margin-top: 5%;
+    padding: 10px;
+    margin: auto;
+    border: none;
+}
+
+td {
+    padding: 6px;
+    font-family: 'Quicksand';
+    color: black;
+}
+
+input,select{
+    width: 200px;
+    height: 30px;
+    background-color: #F9998C;
+    border-color:#F9998C ;
+    border-style:solid;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+
+.some {
+    padding: 35px;
+    text-align: center;
+
+}
+
+.submit:hover{
+    background-color: #a6ddf0;
+    transition: 1s;
+    color: black;
+    border-color: black;
+}
+
+.record {
+    text-align: left;
+}
+

@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+h1{
+    font-family: 'Raleway' bold;
+    font-weight: bolder;
+}
+
+
+/* Buttons */
+
+.button{
+    font-size: 14px;
+    transition-duration: 0.4s;
+    padding: 5px 20px;
+    border-radius: 30px;
+    margin: 10px;
+    background-color: #F9998C;
+    color: black;
+    display: inline-block;
+    
+  }
+
+button:hover {
+    background-color: #addfef;
+    transition: 1s;
+    color: black;
+    border-color:  #addfef;
+  } 
+
+.button1{
+    font-size: 14px;
+    transition-duration: 0.4s;
+    padding: 8px 60px;
+    border-radius: 30px;
+    margin: 50px auto;
+    display: block;
+    background-color: #F9998C;
+    color: black;
+    text-align: center;
+    
+}
+.button1:hover{
+    background-color: #addfef;
+    color: black;
+    border-color:  #addfef;
+    transition: 1s;
+    text-decoration: none;
+}
+
+
+
+
+
+
